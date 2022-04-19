@@ -1,0 +1,20 @@
+{
+
+    "shop": 
+        {
+            "Coin Multiplier":
+                {
+                    "name": "Coin Multiplier",
+                    "description": "An upgrade, that amplifies your multiplier by 0.2%.\n Can be bought infinite amount of times.",
+                    "price": "1000"
+                },
+            
+            "Custom Rank": 
+                {
+                    "name": "Custom Rank",
+                    "description": "Custom rank with custom: color, name.",
+                    "price": "100000"
+                }
+        }
+
+}

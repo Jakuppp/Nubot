@@ -1,0 +1,18 @@
+{
+    "token": "",
+
+    "activity_type": "listening",
+    "activity_name": "0help",
+    "status": "idle",
+    "prefix": "0",
+    "case_insensitive": "True",
+    "privileged_rank_name": "eggmin",
+    "custom_rank_threshold": "Nubot's Ranks",
+
+    "colors": {
+            "annoy": "FF7F0D",
+            "shop":  "D3CA3E",
+            "economy": "097969",
+            "arcade": "981CF4"    
+    }
+}
