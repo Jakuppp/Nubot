@@ -1,6 +1,7 @@
 {
     "token": "",
 
+    "dynamic presence": "true",
     "activity_type": "listening",
     "activity_name": "0help",
     "status": "idle",
